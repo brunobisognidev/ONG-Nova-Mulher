@@ -142,7 +142,6 @@ p {
     .title-section {
         font-family: Arvo;
         font-size: 1.3rem;
-        font-weight: bold;
         font-style: normal;
         font-stretch: normal;
         line-height: normal;
@@ -416,6 +415,60 @@ p {
     background-color: #F5E79D;
     border-color: #F5E79D;
 }
+
+
+
+
+/*--------------------------------------------------------------
+ CONTATO
+--------------------------------------------------------------*/
+
+.contato-midias .social-links {
+    list-style: none;
+    font-size: 0;
+    padding: 0;
+    margin: 0;
+}
+
+
+    .contato-midias .social-links p a {
+        color: #383437;
+    }
+
+        .contato-midias .social-links p:hover a {
+            color: #00b1b0;
+            text-decoration:none;
+        }
+
+    .contato-midias .social-links i {
+        background: #383437;
+        color: #ffffff;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        font-size: 18px;
+        padding: 6px;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        margin-right:12px;
+    }
+
+    .contato-midias .social-links p:hover i {
+        background: #9456a2;
+        color: #ffffff;
+        text-decoration: none;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        font-size: 18px;
+        padding: 6px;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        margin-right: 12px;
+    }
+
 
 
 /*--------------------------------------------------------------
