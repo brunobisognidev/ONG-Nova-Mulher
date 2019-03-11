@@ -101,7 +101,7 @@ p {
     }
 
 .img-responsive {
-    display: block;
+    /*display: block;*/
     max-width: 100%;
     height: auto;
 
@@ -466,6 +466,16 @@ p {
     color: #383437;
 }
 
+/* box white */
+.box-white {
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 3px 3px 6px 0 rgba(0, 0, 0, 0.25);
+}
+
+    .box-white h3 {
+        color: #00b1b0;
+    }
 
 
 
