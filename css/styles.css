@@ -104,9 +104,6 @@ p {
     display: block;
     width: 100%;
     height: auto;
-
-
-
 }
 
 
@@ -334,10 +331,9 @@ p {
 --------------------------------------------------------------*/
 
 .parceiros {
-    max-height: 40px;
-    max-width: 180px;
-    float:left;
-    padding-right: 20px;
+    max-width: 120px;
+    float: left;
+    padding-right: 30px;
 }
 
 .empresas-parceiras {
