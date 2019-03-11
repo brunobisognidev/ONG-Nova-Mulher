@@ -429,6 +429,44 @@ p {
 }
 
 
+/*--------------------------------------------------------------
+ AGENDA
+--------------------------------------------------------------*/
+.item-agenda .card-title {
+    font-family: Arvo;
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00b1b0;
+}
+
+.item-agenda .card-subtitle {
+    font-family: Arvo;
+    font-size: 0.9rem;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #8b0097;
+    padding-bottom: 0.8rem;
+}
+
+.item-agenda p.card-text {
+    font-family: Montserrat;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #383437;
+}
+
+
 
 
 /*--------------------------------------------------------------
