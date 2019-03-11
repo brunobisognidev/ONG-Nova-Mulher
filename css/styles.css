@@ -61,12 +61,11 @@ p {
     padding: .55rem 2rem;
     color: #ffffff;
     text-decoration: none;
+    border:none;
 }
 
     .button-green:hover {
-        border-radius: 55px;
         background-color: #aa66a1;
-        padding: .55rem 2rem;
         color: #ffffff;
         text-decoration: none;
     }
@@ -77,16 +76,29 @@ p {
     padding: .55rem 2rem;
     color: #00b1b0;
     text-decoration: none;
+    border: none;
 }
 
     .button-white:hover {
-        border-radius: 55px;
         background-color: #aa66a1;
-        padding: .55rem 2rem;
         color: #ffffff;
         text-decoration: none;
     }
 
+.button-roxo {
+    border-radius: 55px;
+    background-color: #9456A2;
+    padding: .55rem 2rem;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+}
+
+    .button-roxo:hover {
+        background-color: #00b1b0;
+        color: #ffffff;
+        text-decoration: none;
+    }
 
 .img-responsive {
     display: block;
@@ -468,6 +480,18 @@ p {
         border-radius: 100%;
         margin-right: 12px;
     }
+
+.endereco {
+    float:left;
+    padding-top: 8px;
+}
+
+.rota {
+    float:right;
+    padding-top: 32px;
+}
+
+
 
 
 
